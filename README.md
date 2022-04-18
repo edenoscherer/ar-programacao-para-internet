@@ -17,4 +17,5 @@ Para rodar o banco de dados MySql deve importar o backup banco-ar.sql.
 Após importar o backup atualizar as informações do acesso ao banco no arquivo config.php
 
 **Rodar o servidor**
+
 Para rodar o servidor é recomendado usar xamp com o mod_rewrite habilitado no apache ou o servidor interno do php usando o comando `php -S localhost:8080` no terminal dentro da pasta do projeto.
